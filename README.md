@@ -48,19 +48,4 @@ Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Mach
 
 | Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
 |---|---|---|---|
-| **[Applied Business Analytics & Hypothesis Testing](https://github.com/Jigneshxi/applied-business-analytics-interview-grind)** | Quantitative Decision Science | Hypothesis Testing (Z/T/ANOVA), Probability Distributions, A/B Testing | 50+ enterprise decision models: statistical inference, conversion rate optimization, confidence interval estimation, and risk mitigation. |
-| **[Amazon Prime Video Catalog EDA](https://github.com/Jigneshxi/amazon-prime-eda-python)** | Exploratory Data Analysis & Statistics | NumPy, Pandas, Seaborn, Matplotlib, Descriptive Statistics | High-dimensional distribution modeling, content lifecycle trends, missing value imputation strategies, and multivariate categorical correlations. |
-
----
-
-## 🗄️ Domain 4: Data Engineering, Relational Schemas & BI Dashboards
-
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
-|---|---|---|---|
-| **[Airbnb Relational Database Architecture](https://github.com/Jigneshxi/airbnb-relational-database-design)** | Relational DB Engineering | SQLite, ER Diagrams, Relational Normalization (3NF/BCNF), SQL DDL/DML | Production-grade database design: entity-relationship mapping, primary/foreign key integrity, indexing, and complex multi-join reporting queries. |
-| **[Airbnb Market Analytics & BI Dashboard](https://github.com/Jigneshxi/airbnb-market-analysis-dashboard)** | Business Intelligence & Visual Analytics | Comparative Data Analytics, Interactive Dashboards, KPI Tracking | Cross-market dynamic pricing analysis, occupancy rate trends, revenue forecasting, and executive dashboard visualization for Chicago & New Orleans. |
-| **[Python Fundamentals & Algorithmic Foundations](https://github.com/Jigneshxi/intro-to-python-programming-fundamentals)** | Core Software Engineering | Python OOP, Functional Paradigms, Algorithmic Complexity, Memory Handling | 48 core computational engineering challenges demonstrating clean architecture, defensive programming, and optimal Big-O algorithmic efficiency. |
-
----
-
-## 🛠️ Complete Technical Arsenal
+| **[Applied Business Analytics
