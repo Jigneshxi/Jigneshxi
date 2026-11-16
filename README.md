@@ -1,39 +1,66 @@
 # Hi, I'm Jignesh Kumar 👋
-### AI & Software Intelligence Systems Engineer | Autonomous Multi-Agent Architect
+### AI & Software Intelligence Systems Engineer | MS in AI & ML | Data Scientist & Multi-Agent Architect
 
 <div align="center">
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jigneshxi&color=blueviolet&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jignesh-kumar-a086771b3/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![LangGraph](https://img.shields.io/badge/AI_Mesh-LangGraph-FF6F00?style=flat-square)](https://langchain.com)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/Frontend-React_18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![Azure](https://img.shields.io/badge/Cloud-Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+[![LangGraph](https://img.shields.io/badge/Agentic_AI-LangGraph-FF6F00?style=flat-square)](https://langchain.com)
+[![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn_%7C_PyTorch-F7931E?style=flat-square)](https://scikit-learn.org)
+[![Analytics](https://img.shields.io/badge/Data_Analytics-SQL_%7C_Pandas-4479A1?style=flat-square)](https://pandas.pydata.org)
 
 </div>
 
 ---
 
-## 🏛️ Flagship Enterprise Platform Series
-
-| Series | Platform Name | Architecture & Highlights |
-|---|---|---|
-| **Series #1** | **`VVnT_AI_Coding_Platform`** | Autonomous Full-Stack AI Coding Agent & Web IDE: Multi-Persona Agent Mesh, AST Self-Healing runtime, Monaco Editor, Contract-First Synthesis. |
-| **Series #2** | **`VVnT_LinkedIn_Signal_Prospector_Automation`** | LinkedIn Keyword Signal Monitor & B2B Lead Intelligence: Real-Time Intent Detection, Decision-Maker Scoring, DNS MX Verification. |
-| **Series #3** | **`VVnT_AI_Engineering_Assurance_Platform`** | Enterprise Multi-Agent Verification Platform: 5-Phase LangGraph Sovereign Mesh, Live DevSecOps (Semgrep SAST, Gitleaks, Radon, Flake8), Cryptographic SHA-256 Passports. |
-| **Series #3 Target** | **`VVnT_Assurance_Benchmark_Amerey`** | 3-Tier Enterprise Verification Target: Core Pharma B2B Commerce, 21 CFR Part 11 Compliance Telemetry, and Chaos Stress Injection. |
+## 🎯 Executive Summary
+Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Machine Learning. My engineering portfolio spans four interconnected disciplines:
+1. **Autonomous Agentic AI & Quality Engineering Mesh** (Sovereign multi-agent governance)
+2. **Generative AI, Machine Learning & Azure Cloud Systems** (Clustering, recommendation engines, LLM research)
+3. **Applied Business Analytics, Statistical Modeling & A/B Testing** (Quantitative decision science)
+4. **Data Engineering, Relational Schema Architecture & BI Dashboards** (High-scale SQL & visual intelligence)
 
 ---
 
-## 🛠️ Core Technology Stack
+## 🏛️ Domain 1: Flagship Autonomous AI & Engineering Systems (VVnT Series)
 
-* **Autonomous AI & Multi-Agent:** LangGraph, LangChain, Ollama (`gemma3:27b`), Google Gemini Pro, ChromaDB RAG.
-* **Backend Systems & APIs:** Python 3.10+, FastAPI, Pydantic v2, Uvicorn, Docker, PostgreSQL, SQLite.
-* **DevSecOps & Code Quality:** Semgrep SAST, Gitleaks, Radon (Cyclomatic Complexity), Flake8, Locust, Pytest.
-* **Frontend Cockpits:** React 18, Vite, TypeScript, TailwindCSS, Mermaid.js, Cytoscape telemetry graphs.
+| Series | Platform Name | Architecture & Core Tech | Key Capabilities & Highlights |
+|---|---|---|---|
+| **Series #1** | **`VVnT_AI_Coding_Platform`** | Multi-Persona Agent Mesh, Monaco Web IDE, AST Runtime Analyzer | Autonomous full-stack synthesis; self-healing runtime that auto-resolves syntax & imports before execution. |
+| **Series #2** | **`VVnT_LinkedIn_Signal_Prospector_Automation`** | Headless Automation, Intent NLP Scorer, DNS/MX Resolver | Real-time post keyword signal tracking, CXO decision-maker identification, and 100% bounce-free SMTP verification. |
+| **Series #3** | **`VVnT_AI_Engineering_Assurance_Platform`** | 5-Phase LangGraph Sovereign Mesh, FastAPI, React Cockpit | Contract-first TDD synthesis, live DevSecOps gates (Semgrep SAST, Gitleaks, Radon, Flake8), and SHA-256 release passports. |
+| **Benchmark** | **`VVnT_Assurance_Benchmark_Amerey`** | 3-Tier Pharma B2B Target, Pytest Test Suites, Chaos Traps | 73+ Microservice benchmark validating functional contracts, 21 CFR Part 11 regulatory telemetry, and vulnerability remediation. |
 
 ---
 
-<div align="center">
-  <i>Engineering sovereign, verifiable, and enterprise-grade autonomous AI systems.</i>
-</div>
+## 🤖 Domain 2: Machine Learning, Generative AI & Azure Cloud Systems
+
+| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
+|---|---|---|---|
+| **[Netflix Clustering & GenAI Recommendation](https://github.com/Jigneshxi/netflix-clustering-ml-genai-azure)** | Unsupervised ML & Recommendation Systems | Azure App Services, K-Means, Hierarchical Clustering, TF-IDF, Streamlit | Scalable unsupervised content grouping, cosine similarity recommendation engine, and interactive cloud web UI deployed on Microsoft Azure. |
+| **[McKinsey AI Market Research & Strategy Engine](https://github.com/Jigneshxi/McKinsey-AI-Market-Research-Strategy-Engine)** | Strategic Market Intelligence & LLMs | Prompt Engineering, Multi-Source Ingestion, RAG, Structured Synthesis | Autonomous market insight pipeline extracting signals from fragmented industry data into executive, evidence-backed strategy briefs. |
+
+---
+
+## 📊 Domain 3: Applied Business Analytics, Statistics & Decision Science
+
+| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
+|---|---|---|---|
+| **[Applied Business Analytics & Hypothesis Testing](https://github.com/Jigneshxi/applied-business-analytics-interview-grind)** | Quantitative Decision Science | Hypothesis Testing (Z/T/ANOVA), Probability Distributions, A/B Testing | 50+ enterprise decision models: statistical inference, conversion rate optimization, confidence interval estimation, and risk mitigation. |
+| **[Amazon Prime Video Catalog EDA](https://github.com/Jigneshxi/amazon-prime-eda-python)** | Exploratory Data Analysis & Statistics | NumPy, Pandas, Seaborn, Matplotlib, Descriptive Statistics | High-dimensional distribution modeling, content lifecycle trends, missing value imputation strategies, and multivariate categorical correlations. |
+
+---
+
+## 🗄️ Domain 4: Data Engineering, Relational Schemas & BI Dashboards
+
+| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
+|---|---|---|---|
+| **[Airbnb Relational Database Architecture](https://github.com/Jigneshxi/airbnb-relational-database-design)** | Relational DB Engineering | SQLite, ER Diagrams, Relational Normalization (3NF/BCNF), SQL DDL/DML | Production-grade database design: entity-relationship mapping, primary/foreign key integrity, indexing, and complex multi-join reporting queries. |
+| **[Airbnb Market Analytics & BI Dashboard](https://github.com/Jigneshxi/airbnb-market-analysis-dashboard)** | Business Intelligence & Visual Analytics | Comparative Data Analytics, Interactive Dashboards, KPI Tracking | Cross-market dynamic pricing analysis, occupancy rate trends, revenue forecasting, and executive dashboard visualization for Chicago & New Orleans. |
+| **[Python Fundamentals & Algorithmic Foundations](https://github.com/Jigneshxi/intro-to-python-programming-fundamentals)** | Core Software Engineering | Python OOP, Functional Paradigms, Algorithmic Complexity, Memory Handling | 48 core computational engineering challenges demonstrating clean architecture, defensive programming, and optimal Big-O algorithmic efficiency. |
+
+---
+
+## 🛠️ Complete Technical Arsenal
