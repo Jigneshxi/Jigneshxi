@@ -17,25 +17,14 @@
 
 ## 🎯 Executive Summary
 Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Machine Learning. My engineering portfolio spans four interconnected disciplines:
-1. **Autonomous Agentic AI & Quality Engineering Mesh** (Sovereign multi-agent governance)
+1. **Autonomous Agentic AI & Quality Engineering Mesh** (Sovereign multi-agent governance & LLM orchestration)
 2. **Generative AI, Machine Learning & Azure Cloud Systems** (Clustering, recommendation engines, LLM research)
 3. **Applied Business Analytics, Statistical Modeling & A/B Testing** (Quantitative decision science)
 4. **Data Engineering, Relational Schema Architecture & BI Dashboards** (High-scale SQL & visual intelligence)
 
 ---
 
-## 🏛️ Domain 1: Flagship Autonomous AI & Engineering Systems (VVnT Series)
-
-| Series | Platform Name | Architecture & Core Tech | Key Capabilities & Highlights |
-|---|---|---|---|
-| **Series #1** | **`VVnT_AI_Coding_Platform`** | Multi-Persona Agent Mesh, Monaco Web IDE, AST Runtime Analyzer | Autonomous full-stack synthesis; self-healing runtime that auto-resolves syntax & imports before execution. |
-| **Series #2** | **`VVnT_LinkedIn_Signal_Prospector_Automation`** | Headless Automation, Intent NLP Scorer, DNS/MX Resolver | Real-time post keyword signal tracking, CXO decision-maker identification, and 100% bounce-free SMTP verification. |
-| **Series #3** | **`VVnT_AI_Engineering_Assurance_Platform`** | 5-Phase LangGraph Sovereign Mesh, FastAPI, React Cockpit | Contract-first TDD synthesis, live DevSecOps gates (Semgrep SAST, Gitleaks, Radon, Flake8), and SHA-256 release passports. |
-| **Benchmark** | **`VVnT_Assurance_Benchmark_Amerey`** | 3-Tier Pharma B2B Target, Pytest Test Suites, Chaos Traps | 73+ Microservice benchmark validating functional contracts, 21 CFR Part 11 regulatory telemetry, and vulnerability remediation. |
-
----
-
-## 🤖 Domain 2: Machine Learning, Generative AI & Azure Cloud Systems
+## 🤖 Domain 1: Machine Learning, Generative AI & Azure Cloud Systems
 
 | Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
 |---|---|---|---|
@@ -44,7 +33,7 @@ Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Mach
 
 ---
 
-## 📊 Domain 3: Applied Business Analytics, Statistics & Decision Science
+## 📊 Domain 2: Applied Business Analytics, Statistics & Decision Science
 
 | Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
 |---|---|---|---|
@@ -53,7 +42,7 @@ Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Mach
 
 ---
 
-## 🗄️ Domain 4: Data Engineering, Relational Schemas & BI Dashboards
+## 🗄️ Domain 3: Data Engineering, Relational Schemas & BI Dashboards
 
 | Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Highlights |
 |---|---|---|---|
@@ -67,12 +56,24 @@ Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Mach
 
 | Capability Layer | Core Technologies & Frameworks |
 |---|---|
-| **Autonomous AI & Agentic Mesh** | LangGraph, LangChain, Ollama (`gemma3:27b`), Google Gemini Pro, ChromaDB RAG, Vector Search |
+| **Autonomous AI & Agentic Mesh** | LangGraph, LangChain, Ollama, Google Gemini Pro, ChromaDB RAG, Vector Search |
 | **Machine Learning & Cloud** | Scikit-Learn, PyTorch, Microsoft Azure AI, NLP, K-Means Clustering, Streamlit |
 | **Decision Science & Analytics** | Statistical Inference, A/B Testing, Pandas, NumPy, SciPy, Seaborn, Matplotlib |
 | **Backend & Databases** | Python 3.10+, FastAPI, Pydantic v2, PostgreSQL, SQLite, SQLAlchemy, Docker, Uvicorn |
 | **DevSecOps & Code Quality** | Semgrep SAST, Gitleaks, Radon (Cyclomatic Complexity), Flake8, Pytest Contract Testing |
 | **Frontend Cockpits & Telemetry** | React 18, Vite, TypeScript, TailwindCSS, Mermaid.js, Cytoscape Telemetry Graphs |
+
+---
+
+## 💼 Enterprise Engineering & Industry Experience (Confidential)
+
+> *In compliance with non-disclosure and confidentiality policies, organizational repositories, proprietary codebases, and client identifiers are excluded.*
+
+During my professional tenure, I engineered and architected enterprise-grade systems including:
+- **Autonomous Multi-Agent Engineering Assurance Frameworks:** Architected graph-driven multi-agent pipelines for automated contract verification, requirements synthesis, and automated code review workflows.
+- **Continuous DevSecOps & Security Enforcement Gates:** Integrated automated static application security testing (SAST), secret scanning, linting, and cryptographic attestation passports into delivery pipelines.
+- **High-Throughput Intelligence & Scraping Systems:** Developed distributed signal tracking, intent recognition, and automated verification services for B2B data workflows.
+- **Enterprise Web Cockpits & Observability Dashboards:** Designed real-time monitoring cockpits with reactive state management, AST-level runtime diagnostics, and interactive graph telemetries.
 
 ---
 
