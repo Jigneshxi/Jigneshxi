@@ -15,38 +15,42 @@
 
 ---
 
-## 🌌 The Data Science & AI Universe Hierarchy
+## 🎯 Executive Summary
+Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Machine Learning. My engineering portfolio is systematically architected across the **Data Science & AI Universe Hierarchy**, progressing from core computational fundamentals and statistical inference to production MLOps, deep learning vision/NLP architectures, and apex autonomous multi-agent systems.
 
-This portfolio is systematically organized across the **5-Tier Data Science Universe Architecture**, demonstrating a progressive evolution from fundamental data analytics to apex autonomous multi-agent systems:
+---
+
+## 🌌 The Data Science & AI Universe Hierarchy
 
 ```mermaid
 flowchart TD
-    subgraph TIER5["Tier 5: Apex Multi-Agent Orchestration & Enterprise Strategy Engines"]
-        A1["IT Support Multi-Agent Mesh (LangGraph, RAG, 94.8% Acc)"]
-        A2["McKinsey Strategic Market Research Engine (LLM RAG)"]
+    subgraph TIER5["Tier 5: Applied Thesis & Autonomous Multi-Agent Platforms"]
+        A1["[13/13] IT Support Conversational AI (LangGraph State Graph, 94.8% Acc)"]
+        A2["[14/15] McKinsey Strategic Market Research Engine (LLM Multi-Agent RAG)"]
     end
 
-    subgraph TIER4["Tier 4: Production Machine Learning Systems & Big Data MLOps"]
-        B1["Voyage Travel MLOps Platform (Airflow, K8s, R²=0.9992)"]
-        B2["Retail Demand Forecasting (Tuned XGBoost, Holiday WMAE $1,720)"]
+    subgraph TIER4["Tier 4: Deep Learning & Cognitive AI Engineering"]
+        B1["[10/13] Telecom Churn Prediction (PyTorch Deep ANN / MLP, Cost-Sensitive Loss)"]
+        B2["[11/13] Thoracic Pathology Diagnosis (PyTorch Deep CNN, Multi-Class CV)"]
+        B3["[12/13] Financial Sentiment & Intent Classification (BiLSTM + Multi-Head Attention)"]
     end
 
-    subgraph TIER3["Tier 3: Deep Learning Architectures & Cognitive AI Systems"]
-        C1["Financial Sentiment & Intent Classification (BiLSTM + Attention)"]
-        C2["Thoracic Pathology Radiography Diagnosis (Deep CNN & Grad-CAM)"]
-        C3["Telecom Churn Prediction (Deep ANN / MLP with Focal Loss)"]
+    subgraph TIER3["Tier 3: Machine Learning Engineering & Production MLOps"]
+        C1["[07/13] Voyage Travel MLOps Platform (XGBoost R²=0.9992, Airflow, K8s HPA)"]
+        C2["[08/13] Distributed Big Data Banking Analytics (Hadoop, Hive, PySpark & Streaming)"]
+        C3["[09/13] Retail Store Optimization & Demand Forecasting (Tuned XGBoost, WMAE $1,720)"]
     end
 
     subgraph TIER2["Tier 2: Applied Decision Science, Statistics & Azure Cloud ML"]
-        D1["Applied Business Analytics & Hypothesis Grind (50+ Models, A/B Testing)"]
-        D2["Netflix Content Clustering & GenAI Copilot (Azure Cloud App)"]
+        D1["[05/13] Applied Business Analytics & Inference Grind (50+ Decision Models, A/B Testing)"]
+        D2["[06/13] Netflix Content Clustering & GenAI Copilot (K-Means, Azure App Service)"]
     end
 
     subgraph TIER1["Tier 1: Foundations of Data Analytics, Relational Schemas & BI"]
-        E1["Airbnb Market Analytics & BI Dashboards (Chicago & New Orleans)"]
-        E2["Airbnb Relational Database Architecture (3NF/BCNF SQLite)"]
-        E3["Amazon Prime Catalog EDA & Distribution Modeling (NumPy/Pandas)"]
-        E4["Python Computational Foundations & OOP (48 Algorithms)"]
+        E1["[01/13] Python Computational Foundations & OOP (48 Algorithms, Big-O Efficiency)"]
+        E2["[02/13] Amazon Prime Video Catalog EDA (High-Dimensional Distribution Modeling)"]
+        E3["[03/13] Airbnb Relational Database Architecture (3NF/BCNF Normalization, SQLite)"]
+        E4["[04/13] Airbnb Market Analytics & BI Dashboards (Chicago & New Orleans KPI Tracking)"]
     end
 
     TIER1 --> TIER2 --> TIER3 --> TIER4 --> TIER5
@@ -54,56 +58,66 @@ flowchart TD
 
 ---
 
-## 🤖 Tier 5: Apex Multi-Agent Orchestration & Enterprise Strategy Engines
+## 🏛️ Comprehensive Repository Matrix (The 15 Universe Projects)
+
+### 🤖 Tier 5: Applied Thesis & Autonomous Multi-Agent Systems
 *Stateful cyclic graph workflows, multi-agent mesh coordination, dynamic tool execution, and sovereign LLM governance.*
 
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Verified Metrics |
-|---|---|---|---|
-| **[Conversational AI for IT Support with LangGraph](https://github.com/Jigneshxi/conversational-ai-it-support-langgraph)** | Multi-Agent Stateful Orchestration | LangGraph, LangChain, Hybrid Vector RAG, Python 3.12, Automated Test Suite | **94.8% Factual Resolution Accuracy**, **0.8% Hallucination Rate**, **290ms Latency**, 18-page thesis paper, 10/10 pytest passing. |
-| **[McKinsey AI Market Research & Strategy Engine](https://github.com/Jigneshxi/McKinsey-AI-Market-Research-Strategy-Engine)** | Autonomous Strategic Intelligence | Multi-Source Ingestion, RAG, Structured Synthesis, Prompt Engineering | Autonomous market insight pipeline extracting structured signals from fragmented industry data into executive strategy briefs. |
+| Index | Project Repository | Domain Focus | Core Tech Stack | Verified Key Performance Highlights |
+|:---:|---|---|---|---|
+| **13/13** | **[conversational-ai-it-support-langgraph](https://github.com/Jigneshxi/conversational-ai-it-support-langgraph)** | Multi-Agent IT Support (Applied Thesis) | LangGraph, LangChain, Hybrid RAG, Python 3.12 | **94.8% Factual Accuracy**, **0.8% Hallucination Rate**, **290ms Latency**, 18-page university thesis paper, 10/10 pytest passed. |
+| **14/15** | **[McKinsey-AI-Market-Research-Strategy-Engine](https://github.com/Jigneshxi/McKinsey-AI-Market-Research-Strategy-Engine)** | Autonomous Strategic Intelligence (AlmaX Flagship) | Multi-Source Ingestion, RAG, Structured Synthesis, Prompt Engineering | Enterprise-grade autonomous market intelligence extracting verified strategic signals from fragmented business data. |
 
 ---
 
-## 🚀 Tier 4: Production Machine Learning Systems & Big Data MLOps
-*Industrialized ML systems, containerized deployment, automated orchestration, and high-scale demand forecasting.*
+### 🧠 Tier 4: Deep Learning & Cognitive AI Engineering
+*Neural network architectures, multi-class computer vision, and bidirectional sequence modeling with self-attention.*
 
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Verified Metrics |
-|---|---|---|---|
-| **[Voyage Analytics Travel MLOps Platform](https://github.com/Jigneshxi/voyage-analytics-travel-mlops)** | Production MLOps & Real-Time Scoring | XGBoost, Apache Airflow, Docker, Kubernetes HPA, Flask API, Streamlit | **R² = 0.9992** Flight Pricing Engine, automated retraining pipeline, containerized microservices, horizontal pod autoscaling. |
-| **[Retail Store Optimization & Demand Forecasting](https://github.com/Jigneshxi/retail-store-optimization-demand-forecasting)** | Time-Series Forecasting & Space Allocation | Tuned XGBoost Regressor, K-Means Clustering, Holiday WMAE Loss | **Holiday WMAE = \$1,720**, **R² = 0.965**, K-Means Store Profiling ($K=3$), Departmental Market Basket affinity ($r=0.88$). |
-
----
-
-## 🧠 Tier 3: Deep Learning Architectures & Cognitive AI Systems
-*Custom deep neural network architectures across computer vision, natural language processing, and tabular deep learning.*
-
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Verified Metrics |
-|---|---|---|---|
-| **[Financial Sentiment & Intent Classification](https://github.com/Jigneshxi/financial-sentiment-intent-classification-bilstm-nlp)** | NLP & Intent Routing | PyTorch, Bidirectional LSTM, Multi-Head Self-Attention, Word2Vec | Multi-class financial sentiment and customer intent classification (Complaints, Inquiries, Escalations) with 94.2% test F1. |
-| **[Thoracic Pathology Radiography Deep CNN](https://github.com/Jigneshxi/chest-disease-classification-deep-cnn-cv)** | Medical Computer Vision | PyTorch Deep CNNs, Batch Normalization, Grad-CAM Interpretability | 4-class pulmonary pathology classification (Normal, Bacterial, Viral, COVID-19) with automated clinical triage confidence thresholds. |
-| **[Telecom Customer Churn Deep ANN](https://github.com/Jigneshxi/telecom-churn-prediction-deep-learning-ann)** | Tabular Deep Learning | PyTorch Multilayer Perceptron (MLP), Dropout, Cost-Sensitive Loss | Customer attrition risk scoring with class-imbalance mitigation, learning rate scheduling, and calibrated probability outputs. |
+| Index | Project Repository | Domain Focus | Core Tech Stack | Verified Key Performance Highlights |
+|:---:|---|---|---|---|
+| **10/13** | **[telecom-churn-prediction-deep-learning-ann](https://github.com/Jigneshxi/telecom-churn-prediction-deep-learning-ann)** | Introduction to Deep Learning (AIE M1) | PyTorch 2.4, Deep ANN/MLP, Dropout, Cost-Sensitive Loss | Customer attrition modeling with non-linear activation tuning and cost-sensitive penalty weights. |
+| **11/13** | **[chest-disease-classification-deep-cnn-cv](https://github.com/Jigneshxi/chest-disease-classification-deep-cnn-cv)** | Deep Learning for Computer Vision (AIE M2) | PyTorch Deep CNN, TorchVision, Data Augmentation | Multi-class thoracic pathology classification (Normal, Bacterial, Viral, COVID-19) with automated clinical triage. |
+| **12/13** | **[financial-sentiment-intent-classification-bilstm-nlp](https://github.com/Jigneshxi/financial-sentiment-intent-classification-bilstm-nlp)** | Deep Learning for NLP (AIE M3) | PyTorch BiLSTM, Multi-Head Self-Attention, GloVe Embeddings | High-precision multi-class financial sentiment and customer intent classification (Escalation, Complaint, Inquiry). |
 
 ---
 
-## 📊 Tier 2: Applied Decision Science, Statistics & Azure Cloud ML
-*Statistical inference, probability distributions, hypothesis testing, and cloud-native machine learning systems.*
+### 🚀 Tier 3: Machine Learning Engineering & Production MLOps
+*Industrialized ML systems, containerized deployment, automated orchestration, big data engines, and demand forecasting.*
 
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Verified Metrics |
-|---|---|---|---|
-| **[Applied Business Analytics & Hypothesis Grind](https://github.com/Jigneshxi/applied-business-analytics-interview-grind)** | Quantitative Decision Science | Hypothesis Testing (Z/T/ANOVA), Probability Distributions, A/B Testing | 50+ enterprise decision models: statistical inference, conversion rate optimization, confidence interval estimation, and risk mitigation. |
-| **[Netflix Unsupervised Clustering & Azure GenAI](https://github.com/Jigneshxi/netflix-clustering-ml-genai-azure)** | Unsupervised ML & Recommendation Systems | Azure App Services, K-Means, Hierarchical Clustering, TF-IDF, Streamlit | Scalable unsupervised content grouping, cosine similarity recommendation engine, and interactive cloud web UI deployed on Microsoft Azure. |
+| Index | Project Repository | Domain Focus | Core Tech Stack | Verified Key Performance Highlights |
+|:---:|---|---|---|---|
+| **07/13** | **[voyage-analytics-travel-mlops](https://github.com/Jigneshxi/voyage-analytics-travel-mlops)** | Production ML Systems (MLE M1) | XGBoost, Airflow, Flask, Streamlit, Docker, Kubernetes HPA | **$R^2 = 0.9992$**, end-to-end flight pricing MLOps pipeline with automated daily retraining DAG and autoscaling cluster. |
+| **08/13** | **[distributed-machine-learning-spark-banking](https://github.com/Jigneshxi/distributed-machine-learning-spark-banking)** | Distributed Machine Learning (MLE M2) | Hadoop, Hive HQL, PySpark, Spark MLlib, Spark Streaming | 5-part big data banking analytics platform: MapReduce, Hive queries, Spark ML predictive models & real-time streaming. |
+| **09/13** | **[retail-store-optimization-demand-forecasting](https://github.com/Jigneshxi/retail-store-optimization-demand-forecasting)** | Advanced Machine Learning (MLE M3) | Tuned XGBoost, K-Means Clustering, Isolation Forest, WMAE | **Holiday WMAE = \$1,720** (vs. \$14,820 Linear Baseline), **$R^2 = 0.965$**, store segmentation ($K=3$), 10/10 pytest passed. |
 
 ---
 
-## 🗄️ Tier 1: Foundations of Data Analytics, Relational Schemas & BI
-*Core software engineering, numerical computing, exploratory data analysis, and relational schema architecture.*
+### 📊 Tier 2: Applied Decision Science, Statistics & Azure Cloud ML
+*Statistical inference, hypothesis testing, A/B experimentation, unsupervised learning, and cloud-native Copilots.*
 
-| Project | Domain Focus | Architecture & Core Tech | Key Capabilities & Verified Metrics |
-|---|---|---|---|
-| **[Airbnb Market Analytics & BI Dashboard](https://github.com/Jigneshxi/airbnb-market-analysis-dashboard)** | Business Intelligence & Visual Analytics | Comparative Data Analytics, Interactive Dashboards, KPI Tracking | Cross-market dynamic pricing analysis, occupancy rate trends, revenue forecasting, and executive dashboard visualization for Chicago & New Orleans. |
-| **[Airbnb Relational Database Architecture](https://github.com/Jigneshxi/airbnb-relational-database-design)** | Relational DB Engineering | SQLite, ER Diagrams, Relational Normalization (3NF/BCNF), SQL DDL/DML | Production-grade database design: entity-relationship mapping, primary/foreign key integrity, indexing, and complex multi-join reporting queries. |
-| **[Amazon Prime Video Catalog EDA](https://github.com/Jigneshxi/amazon-prime-eda-python)** | Exploratory Data Analysis & Statistics | NumPy, Pandas, Seaborn, Matplotlib, Descriptive Statistics | High-dimensional distribution modeling, content lifecycle trends, missing value imputation strategies, and multivariate categorical correlations. |
-| **[Python Fundamentals & Algorithmic Foundations](https://github.com/Jigneshxi/intro-to-python-programming-fundamentals)** | Core Software Engineering | Python OOP, Functional Paradigms, Algorithmic Complexity, Memory Handling | 48 core computational engineering challenges demonstrating clean architecture, defensive programming, and optimal Big-O algorithmic efficiency. |
+| Index | Project Repository | Domain Focus | Core Tech Stack | Verified Key Performance Highlights |
+|:---:|---|---|---|---|
+| **05/13** | **[applied-business-analytics-interview-grind](https://github.com/Jigneshxi/applied-business-analytics-interview-grind)** | Applied Business Analytics (DS&AAI M1) | Hypothesis Testing (Z/T/ANOVA), Probability, A/B Testing | 50+ enterprise decision models: statistical inference, conversion rate optimization, confidence intervals & risk mitigation. |
+| **06/13** | **[netflix-clustering-ml-genai-azure](https://github.com/Jigneshxi/netflix-clustering-ml-genai-azure)** | ML & Azure Generative AI (DS&AAI M2) | Azure App Services, K-Means, Agglomerative Clustering, Streamlit | Unsupervised catalog clustering, cosine similarity content recommendations, and cloud web app deployed on Microsoft Azure. |
+
+---
+
+### 🗄️ Tier 1: Foundations of Data Analytics, Relational Schemas & BI
+*Core computational engineering, exploratory distribution analysis, 3NF/BCNF relational modeling, and executive BI dashboards.*
+
+| Index | Project Repository | Domain Focus | Core Tech Stack | Verified Key Performance Highlights |
+|:---:|---|---|---|---|
+| **01/13** | **[intro-to-python-programming-fundamentals](https://github.com/Jigneshxi/intro-to-python-programming-fundamentals)** | Computer Programming (DA&BI M1) | Python OOP, Functional Paradigms, Algorithmic Complexity | 48 computational challenges demonstrating clean architecture, defensive error handling, and optimal Big-O algorithmic runtime. |
+| **02/13** | **[amazon-prime-eda-python](https://github.com/Jigneshxi/amazon-prime-eda-python)** | Numerical Programming & EDA (DA&BI M2) | NumPy, Pandas, Seaborn, Matplotlib, Descriptive Stats | High-dimensional distribution modeling, content lifecycle dynamics, missing value imputation, and multivariate correlations. |
+| **03/13** | **[airbnb-relational-database-design](https://github.com/Jigneshxi/airbnb-relational-database-design)** | Relational Databases (DA&BI M3) | SQLite, ER Diagrams, Relational Normalization (3NF/BCNF) | Production schema architecture: entity-relationship mapping, primary/foreign key integrity, indexing & multi-join queries. |
+| **04/13** | **[airbnb-market-analysis-dashboard](https://github.com/Jigneshxi/airbnb-market-analysis-dashboard)** | BI & Data Visualization (DA&BI M4) | Comparative Analytics, Interactive Dashboards, KPI Tracking | Cross-market dynamic pricing analysis, occupancy rate forecasting, and executive dashboard visualization for Chicago & New Orleans. |
+
+---
+
+### 📌 Master Portfolio Overview
+| Index | Project Repository | Description |
+|:---:|---|---|
+| **15/15** | **[Jigneshxi](https://github.com/Jigneshxi/Jigneshxi)** | Master Executive Engineering Portfolio, Global Resume, and Comprehensive Data Science Universe Directory. |
 
 ---
 
@@ -111,22 +125,22 @@ flowchart TD
 
 | Capability Layer | Core Technologies & Frameworks |
 |---|---|
-| **Autonomous AI & Multi-Agent Mesh** | LangGraph, LangChain, Multi-Agent Swarms, State Graph Machines, Ollama, Gemini Pro, RAG |
-| **Deep Learning & Neural Architectures** | PyTorch 2.4, TorchVision, TorchText, BiLSTM, Multi-Head Attention, Deep CNN, ANN/MLP |
-| **Production MLOps & Cloud** | Apache Airflow, Docker, Kubernetes HPA, MLflow, Microsoft Azure AI, Flask, Streamlit |
-| **Advanced ML & Predictive Modeling** | XGBoost, Scikit-Learn, Random Forest, Time-Series Forecasting, K-Means Clustering |
-| **Decision Science & Analytics** | Statistical Inference, Welch's t-test, ANOVA, Mann-Whitney U, A/B Testing, Pandas, NumPy |
-| **Databases & Schema Engineering** | PostgreSQL, SQLite, Relational Normalization (3NF/BCNF), SQLAlchemy, Indexing |
-| **Software Quality & Testing** | Pytest (10/10 automated test suites across all capstones), CI/CD Gates, Clean Architecture |
+| **Autonomous AI & Multi-Agent Mesh** | LangGraph, LangChain, Multi-Agent Swarms, State Graph Machines, Ollama, Gemini Pro, ChromaDB, Hybrid RAG |
+| **Deep Learning & Neural Architectures** | PyTorch 2.4, TorchVision, TorchText, BiLSTM, Multi-Head Self-Attention, Deep CNN, ANN/MLP |
+| **Production MLOps & Big Data** | Apache Airflow, Docker, Kubernetes HPA, Apache Spark, Hadoop, Hive HQL, MLflow, Microsoft Azure AI, Flask, Streamlit |
+| **Machine Learning & Predictive Modeling** | XGBoost, Scikit-Learn, Random Forest, Time-Series Forecasting, K-Means Clustering, Isolation Forests |
+| **Decision Science & Analytics** | Statistical Inference, Welch's t-test, ANOVA, Mann-Whitney U, A/B Testing, Pandas, NumPy, SciPy |
+| **Databases & Schema Engineering** | PostgreSQL, SQLite, Relational Normalization (3NF/BCNF), SQL DDL/DML, SQLAlchemy, Indexing |
+| **Software Quality & Verification** | Pytest (10/10 automated test suites across all capstones), CI/CD Gates, Strict Type Hinting, Clean Architecture |
 
 ---
 
-## 🏆 Key Verified Performance Highlights Across Capstones
+## 🏆 Portfolio Key Verified Metrics Summary
 
 - **Flight Pricing Accuracy:** $R^2 = 0.9992$ (Tuned XGBoost Production MLOps Engine)
-- **Retail Demand Forecasting:** Holiday WMAE = \$1,720 (XGBoost vs. \$14,820 Linear Baseline)
-- **IT Support Conversational AI:** 94.8% Factual Resolution Accuracy, 0.8% Hallucination Rate
-- **Automated Test Quality:** 100% Passing Unit & Integration Tests across all published modules
+- **Retail Demand Forecasting:** Holiday WMAE = \$1,720 (Tuned XGBoost vs. \$14,820 Linear Baseline)
+- **Conversational AI for IT Support:** 94.8% Factual Resolution Accuracy, 0.8% Hallucination Rate (18-Page Thesis)
+- **Automated Test Coverage:** 100% Passing Unit & Integration Tests (`pytest`) across all modules
 
 ---
 
