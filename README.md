@@ -1,10 +1,14 @@
 # Hi, I'm Jignesh Kumar 👋
-### AI & Software Intelligence Systems Engineer | MS in AI & ML | Data Scientist & Multi-Agent Architect
+### AI & Systems Intelligence Engineer | MS in AI & ML (Woolf University & IIT Patna) | AI/ML Engineer @ VVnT SeQuor | Autonomous Multi-Agent Architect & MLOps Specialist
 
 <div align="center">
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Jigneshxi&color=0284c7&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jignesh-kumar-a086771b3/)
+[![Email](https://img.shields.io/badge/Email-jigneshxi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jigneshxi@gmail.com)
+[![Company](https://img.shields.io/badge/Company-VVnT_SeQuor-6366F1?style=flat-square)](https://vvntsequor.in)
+[![Location](https://img.shields.io/badge/Location-Noida%2C_India-10B981?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Noida,India)
+
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
 [![LangGraph](https://img.shields.io/badge/Agentic_AI-LangGraph-FF6F00?style=flat-square)](https://langchain.com)
@@ -16,8 +20,10 @@
 
 ---
 
-## 🎯 Executive Profile
-Electrical & Instrumentation Engineer with a Master of Science (MS) in AI & Machine Learning (Woolf University & Vishleshan I-Hub, IIT Patna). My engineering portfolio is structured across the **Data Science & AI Universe Hierarchy**, progressing systematically from core computational and database foundations to production MLOps, deep learning vision/NLP architectures, and apex autonomous multi-agent systems.
+## 🎯 Executive Profile & Core Philosophy
+**AI & Systems Intelligence Engineer** with an engineering background in **Instrumentation & Control** and an advanced **Master of Science (MS) in Computer Science: Machine Learning & AI** from **Woolf University** and **Vishleshan I-Hub, IIT Patna (AlmaBetter)**. Currently engineering AI/ML platforms at **VVnT SeQuor**.
+
+My engineering portfolio is structured across the **Data Science & AI Universe Hierarchy**, progressing systematically from core computational and database foundations to production MLOps, deep learning vision/NLP architectures, and sovereign autonomous multi-agent meshes.
 
 ---
 
@@ -48,8 +54,8 @@ flowchart LR
 | Module | Project Repository | Curriculum Scope | Architecture & Stack | Key Highlights & Verified Metrics |
 |:---:|---|---|---|---|
 | **Module 1** | **[intro-to-python-programming-fundamentals](https://github.com/Jigneshxi/intro-to-python-programming-fundamentals)** | Computer Programming (DA&BI) | Python 3.10+, OOP, Functional Paradigms, Memory Profiling | 48 computational challenges demonstrating clean architecture, defensive error handling, and optimal Big-O algorithmic efficiency. |
-| **Module 2.1** | **[play-store-app-review-analysis](https://github.com/Jigneshxi/play-store-app-review-analysis)** | Numerical Programming & EDA (DA&BI) | NumPy, Pandas, Seaborn, Matplotlib, SciPy | 9,659 Android apps & 64k reviews analyzed; validated Freemium 111x install multiplier and Art & Design rating benchmarks (4.36/5.0). |
-| **Module 2.2** | **[paisabazaar-banking-fraud-credit-analysis](https://github.com/Jigneshxi/paisabazaar-banking-fraud-credit-analysis)** | FinTech & Credit Intelligence (DA&BI) | Pandas, SciPy (ANOVA & Welch t-test), Seaborn | 100,000 customer records analyzed across 28 attributes; confirmed income divergence ($F=2,399.8$) and payment delay default penalty ($t=132.17$). |
+| **Module 2.1** | **[play-store-app-review-analysis](https://github.com/Jigneshxi/play-store-app-review-analysis)** | Mobile Ecosystem & EDA (DA&BI) | NumPy, Pandas, Seaborn, Matplotlib, SciPy | 9,659 Android apps & 64k reviews analyzed; validated Freemium 111x install multiplier and Art & Design rating benchmarks (4.36/5.0). |
+| **Module 2.2** | **[paisabazaar-banking-fraud-credit-analysis](https://github.com/Jigneshxi/paisabazaar-banking-fraud-credit-analysis)** | FinTech & Credit Risk (DA&BI) | Pandas, SciPy (ANOVA & Welch t-test), Seaborn | 100,000 customer records analyzed across 28 attributes; confirmed income divergence ($F=2,399.8$) and payment delay default penalty ($t=132.17$). |
 | **Module 2.3** | **[world-bank-global-education-analysis](https://github.com/Jigneshxi/world-bank-global-education-analysis)** | Socio-Economics & Policy (DA&BI) | NumPy, Pandas, SciPy, Matplotlib | Authentic World Bank EdStats across 214 nations; evaluated gender parity gaps ($t=9.85$), GDP wealth correlation ($r=0.528$), and Cuba's 12.8% spending lead. |
 | **Module 2.4** | **[fedex-logistics-performance-analysis](https://github.com/Jigneshxi/fedex-logistics-performance-analysis)** | Supply Chain & Logistics (DA&BI) | Pandas, NumPy, Seaborn, SciPy | 10,000 international shipments analyzed across 33 parameters; isolated Air vs Ocean lead-time variances ($t=48.2$) and freight weight correlations ($r=0.72$). |
 | **Module 2.5** | **[amazon-prime-eda-python](https://github.com/Jigneshxi/amazon-prime-eda-python)** | Digital Media & OTT (DA&BI) | Pandas, Matplotlib, Seaborn | 9,650 movie & TV show titles analyzed; tracked genre lifecycle evolution, IMDb/TMDB score distributions, and director collaboration networks. |
@@ -100,6 +106,16 @@ flowchart LR
 
 ---
 
+## 🎓 Academic Credentials & Certifications
+
+- **Master of Science (MS) in Computer Science: Machine Learning & AI** — *Woolf University & Vishleshan I-Hub, IIT Patna* (2024–2026)
+- **Bachelor of Engineering (B.E.) in Instrumentation & Control Engineering** — *Sant Longowal Institute of Engineering & Technology (SLIET)* (2020–2024)
+- **Professional Fellowship in Data Science & Agentic AI** — *Vishleshan I-Hub, IIT Patna (AlmaBetter)*
+- **McKinsey.org Forward Program Fellow** — *McKinsey & Company*
+- **SQL and Relational Databases Certified** — *IBM*
+
+---
+
 ## 🛠️ Complete Technical Arsenal
 
 | Capability Layer | Core Technologies & Frameworks |
@@ -110,20 +126,25 @@ flowchart LR
 | **Machine Learning & Predictive Modeling** | XGBoost, Scikit-Learn, Random Forest, Time-Series Forecasting, K-Means Clustering, Isolation Forests |
 | **Decision Science & Analytics** | Statistical Inference, Welch's t-test, One-Way ANOVA, Mann-Whitney U, A/B Testing, Pandas, NumPy, SciPy |
 | **Databases & Schema Engineering** | PostgreSQL, SQLite, Relational Normalization (3NF/BCNF), SQL DDL/DML, SQLAlchemy, B-Tree Indexing |
-| **Software Quality & Verification** | Pytest (10/10 automated test suites across all capstones), CI/CD Gates, Strict Type Hinting, Clean Architecture |
+| **Software Quality & Verification** | Pytest (100% automated test suites across all capstones), CI/CD Gates, Strict Type Hinting, Clean Architecture |
 
 ---
 
 ## 🏆 Key Verified Performance Highlights
 
-- **Flight Pricing Accuracy:** $R^2 = 0.9992$ (Tuned XGBoost Production MLOps Engine)
-- **Retail Demand Forecasting:** Holiday WMAE = \$1,720 (Tuned XGBoost vs. \$14,820 Linear Baseline)
-- **Distributed Banking Classification:** ROC-AUC = 0.9124, Accuracy = 91.15% (Spark MLlib Tuned Random Forest)
-- **Conversational AI for IT Support:** 94.8% Factual Resolution Accuracy, 0.8% Hallucination Rate (18-Page Thesis)
-- **Automated Test Coverage:** 100% Passing Unit & Integration Tests (`pytest`) across all published modules
+- **Autonomous IT Support Mesh:** 94.8% Factual Resolution Accuracy, 0.8% Hallucination Rate, 290ms Latency (18-Page Thesis)
+- **Production Flight Pricing MLOps:** $R^2 = 0.9992$ (Tuned XGBoost, Airflow Daily Retraining, Docker & Kubernetes HPA)
+- **Retail Demand Forecasting:** Holiday WMAE = \$1,720 (vs. \$14,820 Linear Baseline, $R^2 = 0.965$)
+- **Distributed Big Data Banking:** ROC-AUC = 0.9124, 840 events/sec streaming on Hadoop & Spark MLlib
+- **Paisabazaar Credit Risk Analytics:** One-Way ANOVA $F = 2,399.8$, delayed payment penalty $t = 132.17$ across 100k records
+- **World Bank Global Policy:** Significant gender parity gap ($t = 9.85, p < 10^{-18}$) and GDP correlation ($r = 0.528$) across 214 nations
+- **FedEx Global Logistics:** Air vs. Ocean lead-time SLA variance ($t = 48.2$) and freight weight elasticity ($r = 0.72$) across 10k shipments
+- **Play Store Market Analysis:** Validated 111x Freemium install multiplier across 9,659 applications and 64,000 user reviews
+- **Automated Verification:** 100% Passing Unit & Integration Tests (`pytest`) across all 19 published repositories
 
 ---
 
 <div align="center">
-  <i>Bridging Autonomous Multi-Agent AI, Production MLOps, Deep Learning, and Rigorous Decision Science.</i>
+  <i>Bridging Autonomous Multi-Agent AI, Production MLOps, Deep Learning, and Rigorous Decision Science.</i><br/>
+  <b>Connect:</b> <a href="https://www.linkedin.com/in/jignesh-kumar-a086771b3/">LinkedIn</a> | <a href="mailto:jigneshxi@gmail.com">jigneshxi@gmail.com</a> | <a href="https://github.com/Jigneshxi">GitHub</a>
 </div>
